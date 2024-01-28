@@ -94,7 +94,7 @@ By accessing or using the EcoCiel repository (the "Repository"), you agree to ab
 
 By accessing or using the EcoCiel Repository, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this license.
 
-For questions or inquiries regarding this license, please contact EcoCiel at [contact@ecociel.com].
+For questions or inquiries regarding this license, please contact EcoCiel at [kushalagrawal890@gmail.com].
 
 
 ## Conclusion: Join the EcoCiel Movement
