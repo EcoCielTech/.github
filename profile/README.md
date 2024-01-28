@@ -1,5 +1,7 @@
 # EcoCiel: Pioneering Sustainable Solutions
 
+![Screenshot from 2024-01-28 16-30-37](https://github.com/EcoCielTech/.github/assets/64556649/1e531824-d5b7-4b7c-b87d-406df9bd3f89)
+
 ## About EcoCiel
 
 EcoCiel is not just a platform; it's a movement towards a greener, more sustainable future. Our ethos revolves around leveraging technology to inspire and incentivize eco-conscious behaviors, uniting individuals and businesses in a shared commitment to environmental stewardship. At the core of our mission is the belief that every action, no matter how small, contributes to a collective impact on our planet.
@@ -95,6 +97,13 @@ By accessing or using the EcoCiel repository (the "Repository"), you agree to ab
 By accessing or using the EcoCiel Repository, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this license.
 
 For questions or inquiries regarding this license, please contact EcoCiel at [kushalagrawal890@gmail.com].
+
+![72c31d7f-240f-4f3d-926a-e436f6791cba](https://github.com/EcoCielTech/.github/assets/64556649/af4a7f74-ae37-422c-9339-cc9d6f78700c)
+
+## APP Screenshots
+
+![051e9f75-8d59-419d-94b8-5183347e561e](https://github.com/EcoCielTech/.github/assets/64556649/3b8ab5d5-b241-4dfc-abc3-a1352247084e)
+![3db3db36-adc5-4e85-94da-dbf69ef1e160](https://github.com/EcoCielTech/.github/assets/64556649/708e163f-9913-4b5f-9ec9-20123a10bab5)
 
 
 ## Conclusion: Join the EcoCiel Movement
